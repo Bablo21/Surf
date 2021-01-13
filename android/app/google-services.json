@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652906574673",
+    "project_id": "surf-36714",
+    "storage_bucket": "surf-36714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652906574673:android:eaec4d59c0e2f764dd1970",
+        "android_client_info": {
+          "package_name": "com.example.surf_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652906574673-mkifau1kdg7h31k3k9oqghaecgqqkeav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM4gk4ucLsof-k2r5WDS33Yj39DHUE5VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652906574673-mkifau1kdg7h31k3k9oqghaecgqqkeav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
