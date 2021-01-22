@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "652906574673",
-    "project_id": "surf-36714",
-    "storage_bucket": "surf-36714.appspot.com"
+    "project_number": "34567970661",
+    "project_id": "surf-86d63",
+    "storage_bucket": "surf-86d63.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:652906574673:android:eaec4d59c0e2f764dd1970",
+        "mobilesdk_app_id": "1:34567970661:android:d857ddef72f35952474b8c",
         "android_client_info": {
-          "package_name": "com.example.surf_app"
+          "package_name": "com.poc.surfApp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "652906574673-mkifau1kdg7h31k3k9oqghaecgqqkeav.apps.googleusercontent.com",
+          "client_id": "34567970661-ae4pu0b9uue96bqtup4abfrc8neikvpm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCM4gk4ucLsof-k2r5WDS33Yj39DHUE5VY"
+          "current_key": "AIzaSyBPhWg1UWGDOluXLMSsDN2cpsqSahPBgoU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "652906574673-mkifau1kdg7h31k3k9oqghaecgqqkeav.apps.googleusercontent.com",
+              "client_id": "34567970661-ae4pu0b9uue96bqtup4abfrc8neikvpm.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
